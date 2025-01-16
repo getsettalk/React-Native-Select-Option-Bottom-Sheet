@@ -17,6 +17,13 @@ A customizable React Native bottom sheet component for selecting options with su
 - ✏️ Custom font support
 - 📐 Responsive design
 
+## Screenshots
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/user-attachments/assets/ab6fe4f0-0fac-40b3-845e-4c09fadd8fc7" width="300" />
+    <img src="https://github.com/user-attachments/assets/cf58b913-e9a2-4cec-9eaa-d2312a4144d1" width="300" />
+</div>
+
 ## Installation
 > copy code from file of `SelectOptionBottomSheet.tsx` and paste it into your react native project inside `component/ui` folder and use anywhere.
 
